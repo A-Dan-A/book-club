@@ -65,3 +65,33 @@
 #times h3 {
   color: #fafafa;
 }
+
+footer {
+  background-color:#a7a7a7
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+h3 footer {
+  margin: 0;
+  flex-grow: 1;
+}
+
+a footer {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+i footer {
+  font-size: 1.5em;
+}
+
+
+form {
+  background-color: aqua;
+  border: 2px;
+  border-radius: 50%;
+  border-color: black;
+  width: 50%;
+}
