@@ -106,7 +106,7 @@ form {
 
 .hidden-heading {
   text-align: center;
-  background-color: black;
+  background-color: #a7a7a7;
   color: #fafafa;
 }
 
@@ -123,6 +123,11 @@ form {
 
 .about {
   text-align: center;
-  background-color: rgb(245, 22, 22);
+  background-color: #a7a7a7;
   color: #000000;
+}
+
+.contact-title {
+  background-color: #a7a7a7;
+  text-align: center;
 }
