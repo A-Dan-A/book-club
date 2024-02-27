@@ -1,4 +1,4 @@
-<h1 align="center">Project 1 - Book CLub Website</h1>
+<h1 align="center">Project 1 - Book Club Website</h1>
 
 [View the live project here.](https://https://a-dan-a.github.io/book-club/)
 
@@ -37,19 +37,19 @@ This is a website for a fictional book club that meets monthly and in person.
 *   ### Wireframes
 
     -   Desktop wireframes
-    --* Home page [View](https://github.com/)
-    --* About page
-    --* Contact page
+    --*Home page [View](assets/readme-images/Wireframe Desktop page 1 DA.jpg)
+    --*About page [View](assets/readme-images/Wireframe Desktop page 2 DA.jpg)
+    --*Contact page [View](assets/readme-images/Wireframe Desktop page 3 DA.jpg)
 
     -   Mobile Wireframe 
-    --* Home page [View](https://github.com/)
-    --* About page
-    --* Contact page
+    --*Home page [View](assets/readme-images/Wireframe Mobile page 1 DA.jpg)
+    --*About page [View](assets/readme-images/Wireframe Mobile page 2 DA.jpg)
+    --*Contact page [View](assets/readme-images/Wireframe Mobile page 3 DA.jpg)
 
     -   Tablet Wireframe 
-    --* Home page [View](https://github.com/)
-    --* About page
-    --* Contact page
+    --*Home page [View](assets/readme-images/Wireframe Tablet page 1 DA.jpg)
+    --*About page [View](assets/readme-images/Wireframe Tablet page 1 DA.jpg)
+    --*Contact page [View](assets/readme-images/Wireframe Tablet page 1 DA.jpg)
 
 ## Features
 
@@ -159,7 +159,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 The project was deployed to GitHub pages using the following steps:
 
 1. Log into [GitHub](https://github.com/)
-2. Go to your [repository](https://github.com/A-Dan-A/book-club/).
+2. Navigate to this [repository](https://github.com/A-Dan-A/book-club/).
 3. Go to settings and select pages.
 4. Select 'deploy from a branch' and 'main' as the root.
 5. There should now be a link to the published website once it is ready.
