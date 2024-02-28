@@ -36,20 +36,20 @@ This is a website for a fictional book club that meets monthly and in person.
 
 *   ### Wireframes
 
-    -   Desktop wireframes
-    ⋅⋅* Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%201%20DA.jpg)
-    ⋅⋅* About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%202%20DA.jpg)
-    ⋅⋅* Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%203%20DA.jpg)
+    Desktop wireframes
+    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%201%20DA.jpg)
+    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%202%20DA.jpg)
+    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%203%20DA.jpg)
 
-    -   Mobile Wireframe 
-    ⋅⋅* Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%201%20DA.jpg)
-    ⋅⋅* About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%202%20DA.jpg)
-    ⋅⋅* Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%203%20DA.jpg)
+    Mobile Wireframe 
+    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%201%20DA.jpg)
+    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%202%20DA.jpg)
+    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%203%20DA.jpg)
 
-    -   Tablet Wireframe 
-    ⋅⋅* Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%201%20DA.jpg)
-    ⋅⋅* About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%202%20DA.jpg)
-    ⋅⋅* Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%203%20DA.jpg)
+    Tablet Wireframe 
+    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%201%20DA.jpg)
+    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%202%20DA.jpg)
+    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%203%20DA.jpg)
 
 ## Features
 
