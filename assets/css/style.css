@@ -36,14 +36,14 @@
 }
 
 .jumbotron-one .lead {
-  color: #a7a7a7;
+  color: #ffffff;
   margin: 25px 0;
 }
 
 .jumbotron-one small {
   font-size: 60%;
   font-style: italic;
-  color: #d0d0d0;
+  color: #ffffff;
 }
 
 #times {
@@ -125,4 +125,12 @@ form {
 
 body {
   background-color: #be3144;
+}
+
+.thanks {
+  height: 50%;
+  width: 100%;
+  border: 20%;
+  text-align: center;
+  background-color: #a7a7a7;
 }
