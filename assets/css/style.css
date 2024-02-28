@@ -62,38 +62,23 @@
   border: 2px solid white;
 }
 
-#times h3 {
-  color: #fafafa;
-}
-
 footer {
-  background-color:#a7a7a7
-  display: inline-block;
+  background-color:#a7a7a7;
   align-items: center;
   text-align:center;
   padding: 10px;
 }
 
-h3 footer {
-  margin: 0;
-  flex-grow: 1;
-}
-
 footer a {
-  display: inline-block;
   margin-left: 10px;
   margin: 0 10px;
   font-size: 24px;
 }
 
-footer i {
-  display: inline-block;
-  font-size: 1.5em;
-}
 
 form {
-  background-color: rgb(0, 183, 255);
-  border: 20px;
+  background-color: #a7a7a7;
+  border: 15px;
   border-style: double;
   border-color: black;
   width: 50%;
@@ -107,7 +92,7 @@ form {
 .hidden-heading {
   text-align: center;
   background-color: #a7a7a7;
-  color: #fafafa;
+  color: #000000;
 }
 
 .custom-list {
