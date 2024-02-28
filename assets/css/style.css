@@ -81,7 +81,9 @@ form {
   border: 15px;
   border-style: double;
   border-color: black;
-  width: 50%;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
 }
 
 .when {
@@ -112,7 +114,15 @@ form {
   color: #000000;
 }
 
+.contact {
+  padding: 20px;
+}
+
 .contact-title {
   background-color: #a7a7a7;
   text-align: center;
+}
+
+body {
+  background-color: #be3144;
 }
