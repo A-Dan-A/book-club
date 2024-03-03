@@ -130,7 +130,7 @@ body {
 .thanks {
   height: 50%;
   width: 100%;
-  border: 20%;
+  border: 10px;
   text-align: center;
   background-color: #a7a7a7;
 }
