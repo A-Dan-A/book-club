@@ -105,13 +105,16 @@ form {
 
 .hidden-heading {
   text-align: center;
-  background-color: #be3144;
+  border-style: solid;
+  border-color: #000000;
+  background-color: #a7a7a7;
   color: #000000;
 }
 
 .custom-list {
   list-style: none;
   padding-left: 20px;
+  text-indent: 5%;
 }
 
 .custom-list li::before {
@@ -122,6 +125,8 @@ form {
 
 .about {
   text-align: center;
+  border-style: solid;
+  border-color: #000000;
   background-color: #a7a7a7;
   color: #000000;
 }
@@ -133,6 +138,8 @@ form {
 .contact-title {
   background-color: #a7a7a7;
   text-align: center;
+  border-style: solid;
+  border-color: #000000;
 }
 
 body {
