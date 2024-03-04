@@ -18,11 +18,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -48,12 +46,6 @@ body {
 .jumbotron-one .lead {
   color: #ffffff;
   margin: 25px 0;
-}
-
-.jumbotron-one small {
-  font-size: 60%;
-  font-style: italic;
-  color: #ffffff;
 }
 
 #times {
@@ -165,3 +157,26 @@ body {
   text-align: center;
 }
 
+iframe {
+  width: 560px;
+  height: 315px;
+}
+
+@media screen and (max-width: 767px) {
+  iframe {
+      width: 100%;
+      height: 300px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  iframe {
+      height: 200px;
+  }
+}
+
+@media screen and (max-height: 479px) {
+  .callout-container {
+      height: 100%;
+  }
+}
