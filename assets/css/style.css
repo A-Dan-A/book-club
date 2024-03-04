@@ -1,3 +1,5 @@
+/* body */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -5,11 +7,14 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+    background-color: #be3144;
 }
 
 .content {
   flex: 1;
 }
+
+/* callout */
 
 .callout-container {
     height: 100vh;
@@ -48,6 +53,8 @@ body {
   margin: 25px 0;
 }
 
+/* times */
+
 #times {
   background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg/640px-Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg') no-repeat center/cover;
   display: flex;
@@ -64,6 +71,8 @@ body {
   border: 2px solid white;
 }
 
+/* footer */
+
 footer {
   background-color: #ffffff;
   align-items: center;
@@ -78,6 +87,7 @@ footer a {
   font-size: 44px;
 }
 
+/* form */
 
 form {
   background-color: #a7a7a7;
@@ -87,6 +97,27 @@ form {
   width: 80%;
   margin: auto;
   padding: 10px;
+}
+
+.contact {
+  padding: 20px;
+}
+
+.contact-title {
+  background-color: #a7a7a7;
+  text-align: center;
+  border-style: solid;
+  border-color: #000000;
+}
+
+.contact .btn {
+  color: #000000;
+}
+
+/* headers */
+
+.details {
+  text-align: center;
 }
 
 .when {
@@ -102,6 +133,16 @@ form {
   color: #000000;
 }
 
+.about {
+  text-align: center;
+  border-style: solid;
+  border-color: #000000;
+  background-color: #a7a7a7;
+  color: #000000;
+}
+
+/* list */
+
 .custom-list {
   list-style: none;
   padding-left: 20px;
@@ -114,28 +155,7 @@ form {
   margin-right: 10px;
 }
 
-.about {
-  text-align: center;
-  border-style: solid;
-  border-color: #000000;
-  background-color: #a7a7a7;
-  color: #000000;
-}
-
-.contact {
-  padding: 20px;
-}
-
-.contact-title {
-  background-color: #a7a7a7;
-  text-align: center;
-  border-style: solid;
-  border-color: #000000;
-}
-
-body {
-  background-color: #be3144;
-}
+/* thanks page */
 
 .thanks {
   height: 50%;
@@ -149,18 +169,14 @@ body {
   color: #000000;
 }
 
-.contact .btn {
-  color: #000000;
-}
-
-.details {
-  text-align: center;
-}
+/* embedded video */
 
 iframe {
   width: 560px;
   height: 315px;
 }
+
+/* media queries */
 
 @media screen and (max-width: 767px) {
   iframe {
