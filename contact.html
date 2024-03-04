@@ -1,75 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta
-  name="description"
-  content="Contact book club to find out more about us and how to join. We look forward to welcoming you into the club.">
+    <meta name="description" content="Contact book club to find out more about us and how to join. We look forward to welcoming you into the club.">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Book Club | Join Us!</title>
-</head>
-<body>
+  </head>
+  <body>
     <!--Nav-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html">Book Club</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+      <a class="navbar-brand" href="index.html">Book Club</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
     <!--/Nav-->
-
+    <!--Header-->
     <main class="content">
       <div class="contact-title">
-        <h1>
-          Want To Know More?
-        </h1>
-        <p>
-          Contact us here if you are interested!
-        </p>
+        <h1> Want To Know More? </h1>
+        <p> Contact us here if you are interested! </p>
       </div>
+      <!--/Header-->
+      <!--Contact form-->
       <div class="container fluid mt-5 contact">
         <form action="thankyou.html">
-            <div class="form-group">
-              <label for="email">Email address (Required)</label>
-              <input type="email" class="form-control" name="email" id="email" placeholder="name@example.com" required>
-            </div>
-            <div class="form-group">
-              <label for="name">Name (Required)</label>
-              <input type="text" class="form-control" name="name" id="name" placeholder="name" required>
-            </div>
-            <div class="form-group">
-              <label for="about">Tell us more about yourself (optional)</label>
-              <textarea class="form-control" name="about" id="about" rows="3"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary" onclick="window.location.href='thankyou.html'">Submit</button>
-          </form>
-        </div>
+          <div class="form-group">
+            <label for="email">Email address (Required)</label>
+            <input type="email" class="form-control" name="email" id="email" placeholder="name@example.com" required>
+          </div>
+          <div class="form-group">
+            <label for="name">Name (Required)</label>
+            <input type="text" class="form-control" name="name" id="name" placeholder="name" required>
+          </div>
+          <div class="form-group">
+            <label for="about">Tell us more about yourself (optional)</label>
+            <textarea class="form-control" name="about" id="about" rows="3"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" onclick="window.location.href='thankyou.html'">Submit</button>
+        </form>
+      </div>
+      <!--/Contact form-->
     </main>
-  <footer>
-    <a href="https://www.facebook.com" target="_blank" aria-label="Facebook Link"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-    <a href="https://www.twitter.com" target="_blank" aria-label="Twitter Link"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-    <a href="https://www.instagram.com" target="_blank" aria-label="Instagram Link"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-    <a href="https://www.youtube.com" target="_blank" aria-label="Youtube Link"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-  </footer>
-
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
+    <!--Footer-->
+    <footer>
+      <a href="https://www.facebook.com" target="_blank" aria-label="Facebook Link">
+        <i class="fa fa-facebook" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.twitter.com" target="_blank" aria-label="Twitter Link">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.instagram.com" target="_blank" aria-label="Instagram Link">
+        <i class="fa fa-instagram" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.youtube.com" target="_blank" aria-label="Youtube Link">
+        <i class="fa fa-youtube" aria-hidden="true"></i>
+      </a>
+    </footer>
+    <!--/Footer-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
 </html>
