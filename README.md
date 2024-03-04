@@ -13,20 +13,20 @@ This is a website for a fictional book club that meets monthly and in person. It
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a First Time Visitor, I want the purpose of the site to be obvious and the information to be relevant and useful.
+        2. As a First Time Visitor, I want the navigation to be obvious and easy.
+        3. As a First Time Visitor, I want to see testimonials to understand what current users get out of the book club.
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to see what the club has been doing.
+        2. As a Returning Visitor, I want to be able to easily find a way to contact the club to find out more information.
+        3. As a Returning Visitor, I want to be able to find links to social media.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. As a Frequent User, I want the information to be relevant and up-to-date.
+        2. As a Frequent User, I want there to be features that can be regularly updated so I have a reason to come back.
+        3. As a Frequent User, I want the site to be welcoming and make me want to connect with the club.
 
 -   ### Design
     -   #### Colour Scheme
