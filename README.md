@@ -66,24 +66,35 @@ with Black - #000000 text.
 ## Features
 
 -   Is responsive on all screen sizes.
-<img src="/workspace/book-club/assets/readme-images/devices.png">
+
+<img src="/workspace/book-club/assets/readme-images/devices.png" width="500">
 
 -   Embedded YouTube video of a relevant book club discussion.
 -   Has a navigation bar with links.
-<img src="/workspace/book-club/assets/readme-images/homepage.png">
+
+<img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
 
 -   Has a footer bar with social media links.
-
 -   Has a form to contact the club with a button.
+
+<img src="/workspace/book-club/assets/readme-images/form.png" width="500">
+
 -   The form button takes the user to a thanks page to show they have successfully submitted       their details.
+
+<img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
 
 -   Has reviews of books from other book club members.
 
+<img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+
 -   Has a list of books that have been read last year and will be read this year.
 
--   Has details of the meeting places, date and time.
+<img src="/workspace/book-club/assets/readme-images/list.png" width="500">
 
+-   Has details of the meeting places, date and time.
 -   Has details of which books are coming up next to be read.
+
+<img src="/workspace/book-club/assets/readme-images/when.png" width="500">
 
 ## Technologies Used
 
@@ -175,6 +186,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   The website was tested on Google Chrome and Microsoft Edge browsers.
 -   The website was viewed on a laptop and a smartphone as well as by using chrome developer tools to test different screen sizes.
 -   Testing was done to make sure all of the pages linked to each other and to any external links properly.
+-   
 
 ### Known Bugs
 
