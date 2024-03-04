@@ -30,7 +30,17 @@ This is a website for a fictional book club that meets monthly and in person. It
 
 -   ### Design
     -   #### Colour Scheme
-        -   The main colors used are white - #ffffff, grey -  #a7a7a7 and dark red - #be3144, with Black - #000000 text.
+
+The main colors used are: 
+
+| Color | Hex Code |
+| :---: | :---: |
+| white | #ffffff |
+| grey | #a7a7a7 |
+|dark red  | #be3144  | 
+        
+with Black - #000000 text.
+
     -   #### Typography
         -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accesible and clean font that makes the site easy to read.
     -   #### Imagery
@@ -56,8 +66,24 @@ This is a website for a fictional book club that meets monthly and in person. It
 ## Features
 
 -   Is responsive on all screen sizes.
+<img src="/workspace/book-club/assets/readme-images/devices.png">
 
--   Embedded YouTube video.
+-   Embedded YouTube video of a relevant book club discussion.
+-   Has a navigation bar with links.
+<img src="/workspace/book-club/assets/readme-images/homepage.png">
+
+-   Has a footer bar with social media links.
+
+-   Has a form to contact the club with a button.
+-   The form button takes the user to a thanks page to show they have successfully submitted       their details.
+
+-   Has reviews of books from other book club members.
+
+-   Has a list of books that have been read last year and will be read this year.
+
+-   Has details of the meeting places, date and time.
+
+-   Has details of which books are coming up next to be read.
 
 ## Technologies Used
 
