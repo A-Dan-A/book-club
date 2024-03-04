@@ -2,7 +2,9 @@
 
 [View the live project here.](https://https://a-dan-a.github.io/book-club/)
 
-This is a website for a fictional book club that meets monthly and in person.
+This is a website for a fictional book club that meets monthly and in person. It has been designed to be responsive on all devices, making navigation easy for anyone who wishes to find out more about the book club.
+
+<h2 align="center"><img src="/workspace/book-club/assets/readme-images/devices.png"></h2>
 
 
 ## User Experience (UX)
