@@ -150,7 +150,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--
+-   The footer was oriented to one side of the page. This was fixed by removing 'inline-block' from the CSS.
+
+-   Form attribute types were flagged as wrong by the validator. These had not had the attributes changed from the original Bootstrap code and this was fixed.
+
+-   Fixed CSS not working by adding scripts to each page.
 
 ## Deployment
 
