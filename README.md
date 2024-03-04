@@ -28,11 +28,11 @@ This is a website for a fictional book club that meets monthly and in person.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The main colors used are white - #ffffff, grey -  #a7a7a7 and dark red - #be3144, with Black - #000000 text.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accesible and clean font that makes the site easy to read.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Images are important, and a background hero image has been used on the index page to convey the theme of books to users. Other images have been used to enhance this theme.
 
 *   ### Wireframes
 
@@ -145,7 +145,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 -   The website was tested on Google Chrome and Microsoft Edge browsers.
--   The website was viewed on a laptop and a smartphone as well as by resizing the browser window to test it this way.
+-   The website was viewed on a laptop and a smartphone as well as by using chrome developer tools to test different screen sizes.
 -   Testing was done to make sure all of the pages linked to each other and to any external links properly.
 
 ### Known Bugs
@@ -155,6 +155,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Form attribute types were flagged as wrong by the validator. These had not had the attributes changed from the original Bootstrap code and this was fixed.
 
 -   Fixed CSS not working by adding scripts to each page.
+
+-   Fixed background image on main page. File path was wrong.
 
 ## Deployment
 
@@ -186,13 +188,7 @@ The project was deployed to GitHub pages using the following steps:
 
 ### Media
 
--   All Images are from Wikimedia Commons and publisher/author websites in the case of book cover images.
-
--   Front cover of [The House in the Cerulean Sea](https://images.squarespace-cdn.com/content/v1/623ba108a16d7768676dfb64/fb68cc2d-e58c-464b-9672-ae7b115616ed/The+House+in+the+Cerulean+Sea.jpg?format=1500w) by TJ Klune, from his own website.
-
--   Front cover of [1984](https://cdn.penguin.co.uk/dam-assets/books/9780141036144/9780141036144-jacket-large.jpg) by George Orwell, from the Penguin website.
-
--   Callout container image from Wikimedia Commons of a [cat reading a book](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cat_reading_book_498102.jpg/640px-Cat_reading_book_498102.jpg) credited to user BibBornem.
+-   Bookshelf background image and front cover pictures are by the developer.
 
 -   Upcoming books background image from Wikimedia Commons of a [library behind a doorway](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg/640px-Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg)
 
