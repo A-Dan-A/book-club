@@ -142,18 +142,22 @@ _____
         1. Upon entering the site, the user will see the callout welcoming them and explaining in a sentence what the book club is about.
         2. The hero image and embedded video show clearly what the site is about.
         3. The user can scroll down and see more information, including meeting dates and times and a summary of what the book club will be reading next.
-
+    <img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
 
     2. As a First Time Visitor, I want the navigation to be obvious and easy.
 
         1. The site is designed to be simple and easy, there is a navbar at the top, and scrolling down will show you all the information you need.
         2. Each page has an obvious purpose, such as an overview of the club, more details and reviews, and a way to contact the club.
         3. On the contact page, once you have submitted your details, you will be redirected to a friendly thank you page so you know it has worked. A simple button navigates you back, or you can use the nav bar.
+    <img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
 
     3. As a First Time Visitor, I want to see testimonials to understand what current users get out of the book club.
-        1. After reading an overview of what the book club is about, the next page will show more information, including reviews by mebers.
+        1. After reading an overview of what the book club is about, the next page will show more information, including reviews by members.
         2. The user can scroll down to the bottom of every page to find social media links to find out more about the club.
         3. On the home page there is a Youtube video that demonstrates what a book club is like, using a recently read book.
+
+    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
 
 -   #### Returning Visitor Goals
 
@@ -161,6 +165,9 @@ _____
 
         1. This is shown clearly on the about page, with a list of recently read books.
         2. At the bottom of every page are social media links to see more about the recent activities of the club.
+    
+    <img src="/workspace/book-club/assets/readme-images/list.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
 
     2. As a Returning Visitor, I want to be able to easily find a way to contact the club to find out more information.
 
@@ -168,10 +175,15 @@ _____
         2. On this page, they can fill out a form to find out more about the club.
         3. The footer contains social media links for the club, where it would be possible to message them.
         4. All the social media links open in a new tab, so the user can continue browsing on the site easily.
+    
+    <img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/contact.png" width="500">
 
     3. As a Returning Visitor, I want to be able to find links to social media.
         1. The social media links are at the bottom of every page.
         2. All the social media links open in a new tab, for ease of use.
+
+    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
 
 -   #### Frequent User Goals
 
@@ -181,14 +193,24 @@ _____
         2. There is also a list of the next 4 books that the group will read.
         3. On the About page, there is a list of books that were read in the previous year and that will be read in the current year, meaining that there is always plenty of relevant information for the user to browse.
 
+    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/list.png" width="500">
+
     2. As a Frequent User, I want there to be features that can be regularly updated so I have a reason to come back.
 
         1. The upcoming books will be updated every month.
         2. There are reviews of recently read books on the ABout page that will be updated often.
+    
+    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
 
     3. As a Frequent User, I want the site to be welcoming and make me want to connect with the club.
         1. All of the text is designed to be friendly, welcoming and not too formal.
         2. The site contains reviews by users to show what people are like at the club.
+
+    <img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
+    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+
 
 ### Further Testing
 
