@@ -137,57 +137,58 @@ _____
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a First Time Visitor, I want the purpose of the site to be obvious and the information to be relevant and useful.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+        1. Upon entering the site, the user will see the callout welcoming them and explaining in a sentence what the book club is about.
+        2. The hero image and embedded video show clearly what the site is about.
+        3. The user can scroll down and see more information, including meeting dates and times and a summary of what the book club will be reading next.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+    2. As a First Time Visitor, I want the navigation to be obvious and easy.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+        1. The site is designed to be simple and easy, there is a navbar at the top, and scrolling down will show you all the information you need.
+        2. Each page has an obvious purpose, such as an overview of the club, more details and reviews, and a way to contact the club.
+        3. On the contact page, once you have submitted your details, you will be redirected to a friendly thank you page so you know it has worked. A simple button navigates you back, or you can use the nav bar.
+
+    3. As a First Time Visitor, I want to see testimonials to understand what current users get out of the book club.
+        1. After reading an overview of what the book club is about, the next page will show more information, including reviews by mebers.
+        2. The user can scroll down to the bottom of every page to find social media links to find out more about the club.
+        3. On the home page there is a Youtube video that demonstrates what a book club is like, using a recently read book.
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to see what the club has been doing.
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        1. This is shown clearly on the about page, with a list of recently read books.
+        2. At the bottom of every page are social media links to see more about the recent activities of the club.
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. As a Returning Visitor, I want to be able to easily find a way to contact the club to find out more information.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+        1. There is a link to the contact page in the nav bar.
+        2. On this page, they can fill out a form to find out more about the club.
+        3. The footer contains social media links for the club, where it would be possible to message them.
+        4. All the social media links open in a new tab, so the user can continue browsing on the site easily.
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+    3. As a Returning Visitor, I want to be able to find links to social media.
+        1. The social media links are at the bottom of every page.
+        2. All the social media links open in a new tab, for ease of use.
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want the information to be relevant and up-to-date.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The Home page has the up-to-date meeting details for the group.
+        2. There is also a list of the next 4 books that the group will read.
+        3. On the About page, there is a list of books that were read in the previous year and that will be read in the current year, meaining that there is always plenty of relevant information for the user to browse.
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want there to be features that can be regularly updated so I have a reason to come back.
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. The upcoming books will be updated every month.
+        2. There are reviews of recently read books on the ABout page that will be updated often.
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+    3. As a Frequent User, I want the site to be welcoming and make me want to connect with the club.
+        1. All of the text is designed to be friendly, welcoming and not too formal.
+        2. The site contains reviews by users to show what people are like at the club.
 
 ### Further Testing
 
