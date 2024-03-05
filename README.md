@@ -229,6 +229,24 @@ The project was deployed to GitHub pages using the following steps:
 4. Select 'deploy from a branch' and 'main' as the root.
 5. There should now be a link to the published website once it is ready.
 
+### Forking the GitHub Repository
+
+By forking the GitHub Repository a copy of the original repository is made, so we can make changes without the original being changed.
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository,above the "Settings" Button on the menu, locate the "Fork" Button.
+3. A copy of the original repository should now be in your account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Click "Clone or download", which are underneath the repository name.
+3. Copy the link under "Clone with HTTPS" and this will clone the repositor using HTTPS.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, then paste the URL that you copied in Step 3.
+7. Press Enter, and your local clone will be created.
+
 ## Credits
 
 ### Code
