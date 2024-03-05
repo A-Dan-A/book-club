@@ -14,7 +14,7 @@ body {
   flex: 1;
 }
 
-/* callout */
+/* callout - modified code from the code institute whiskeydrop project */
 
 .callout-container {
     height: 100vh;
@@ -53,7 +53,7 @@ body {
   margin: 25px 0;
 }
 
-/* times */
+/* times modified code from the code institute love running project */
 
 #times {
   background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg/640px-Bredevoort_%28NL%29%2C_Antiquariat_--_2018_--_1836.jpg') no-repeat center/cover;
