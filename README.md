@@ -201,6 +201,12 @@ _____
 <img src="/workspace/book-club/assets/readme-images/lighthousecontact.png" width="500">
 <img src="/workspace/book-club/assets/readme-images/lighthousethankyou.png" width="500">
 
+-   Testing was done with the Webaim WAVE tool to test accessibility
+<img src="/workspace/book-club/assets/readme-images/webaimindex.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/webaimabout.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/webaimcontact.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/webaimthankyou.png" width="500">
+
 ### Known Bugs
 
 -   The footer was oriented to one side of the page. This was fixed by removing 'inline-block' from the CSS.
