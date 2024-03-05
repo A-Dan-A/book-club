@@ -2,7 +2,7 @@
 
 [View the live project here.](https://https://a-dan-a.github.io/book-club/)
 
-This is a website for a fictional book club that meets monthly and in person. It has been designed to be responsive on all devices, making navigation easy for anyone who wishes to find out more about the book club. The site if for anyone who might wish to join a book club and gives information enough to tell them about the club, the books and the people as well as giving them a chance to contact the club. This should be welcominging and informative to different types of users.
+This is a website for a fictional book club that meets monthly and in person. It has been designed to be responsive on all devices, making navigation easy for anyone who wishes to find out more about the book club. The site is for anyone who might wish to join a book club and gives information enough to tell them about the club, the books and the people as well as giving them a chance to contact the club. This should be welcoming and informative to different types of users.
 
 <h2 align="center"><img src="/workspace/book-club/assets/readme-images/devices.png"></h2>
 
@@ -42,7 +42,7 @@ The main colors used are:
 with Black - #000000 text.
 
     -   #### Typography
-        -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accesible and clean font that makes the site easy to read.
+        -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accessible and clean font that makes the site easy to read.
     -   #### Imagery
         -   Images are important, and a background hero image has been used on the index page to convey the theme of books to users. Other images have been used to enhance this theme.
 
@@ -199,7 +199,7 @@ _____
     2. As a Frequent User, I want there to be features that can be regularly updated so I have a reason to come back.
 
         1. The upcoming books will be updated every month.
-        2. There are reviews of recently read books on the ABout page that will be updated often.
+        2. There are reviews of recently read books on the About page that will be updated often.
     
     <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
     <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
@@ -238,7 +238,7 @@ _____
 
 -   Fixed CSS not working by adding scripts to each page.
 
--   Fixed background image on main page. File path was wrong.
+-   Fixed background image on main page. The file path was wrong and google devtools was used to investigate the problem, perform online edits to test out solutions and then apply the solutions to the code.
 
 ## Deployment
 
