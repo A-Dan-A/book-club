@@ -132,6 +132,7 @@ _____
 <img src="/workspace/book-club/assets/readme-images/cssvalidated1.png" width="500">
 <img src="/workspace/book-club/assets/readme-images/cssvalidated2.png" width="500">
 
+
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
@@ -193,7 +194,12 @@ _____
 -   The website was tested on Google Chrome and Microsoft Edge browsers.
 -   The website was viewed on a laptop and a smartphone as well as by using chrome developer tools to test different screen sizes.
 -   Testing was done to make sure all of the pages linked to each other and to any external links properly.
--   
+
+-   Testing was done with Google's Lighthouse devtool. The index page scored lower in performance and best practices because of issues relating to the embedded Youtube video.
+<img src="/workspace/book-club/assets/readme-images/lighthouseindex.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/lighthouseabout.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/lighthousecontact.png" width="500">
+<img src="/workspace/book-club/assets/readme-images/lighthousethankyou.png" width="500">
 
 ### Known Bugs
 
