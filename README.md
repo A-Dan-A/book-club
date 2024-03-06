@@ -49,19 +49,24 @@ with Black - #000000 text.
 *   ### Wireframes
 
     Desktop wireframes
-    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%201%20DA.jpg)
-    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%202%20DA.jpg)
-    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Desktop%20page%203%20DA.jpg)
+
+    <img src="assets/readme-images/wireframe-desktop-page1da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-desktop-page2da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-desktop-page3da.jpg" width="500">
+
 
     Mobile Wireframe 
-    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%201%20DA.jpg)
-    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%202%20DA.jpg)
-    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Mobile%20page%203%20DA.jpg)
 
-    Tablet Wireframe 
-    * Home page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%201%20DA.jpg)
-    * About page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%202%20DA.jpg)
-    * Contact page [View](https://github.com/A-Dan-A/book-club/blob/main/assets/readme-images/Wireframe%20Tablet%20page%203%20DA.jpg)
+    <img src="assets/readme-images/wireframe-mobile-page1da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-mobile-page2da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-mobile-page3da.jpg" width="500">
+
+
+    Tablet Wireframe
+
+    <img src="assets/readme-images/wireframe-tablet-page1da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-tablet-page2da.jpg" width="500">
+    <img src="assets/readme-images/wireframe-tablet-page3da.jpg" width="500">
 
 ## Features
 
