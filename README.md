@@ -67,7 +67,7 @@ with Black - #000000 text.
 
 -   Is responsive on all screen sizes.
 
-<img src="/book-club/assets/readme-images/devices.png" width="500">
+<img src="./assets/readme-images/devices.png" width="500">
 
 -   Embedded YouTube video of a relevant book club discussion.
 -   Has a navigation bar with links.
