@@ -169,7 +169,6 @@ _____
         1. After reading an overview of what the book club is about, the next page will show more information, including reviews by members.
         2. The user can scroll down to the bottom of every page to find social media links to find out more about the club.
         3. On the home page there is a Youtube video that demonstrates what a book club is like, using a recently read book.
-
     <img src="assets/readme-images/reviews.png" width="500">
 
 -   #### Returning Visitor Goals
@@ -178,7 +177,6 @@ _____
 
         1. This is shown clearly on the about page, with a list of recently read books.
         2. At the bottom of every page are social media links to see more about the recent activities of the club.
-    
     <img src="assets/readme-images/list.png" width="500">
     <img src="assets/readme-images/reviews.png" width="500">
 
@@ -188,14 +186,12 @@ _____
         2. On this page, they can fill out a form to find out more about the club.
         3. The footer contains social media links for the club, where it would be possible to message them.
         4. All the social media links open in a new tab, so the user can continue browsing on the site easily.
-    
     <img src="assets/readme-images/homepage.png" width="500">
     <img src="assets/readme-images/contact.png" width="500">
 
     3. As a Returning Visitor, I want to be able to find links to social media.
         1. The social media links are at the bottom of every page.
         2. All the social media links open in a new tab, for ease of use.
-
     <img src="assets/readme-images/reviews.png" width="500">
 
 -   #### Frequent User Goals
@@ -205,7 +201,6 @@ _____
         1. The Home page has the up-to-date meeting details for the group.
         2. There is also a list of the next 4 books that the group will read.
         3. On the About page, there is a list of books that were read in the previous year and that will be read in the current year, meaining that there is always plenty of relevant information for the user to browse.
-
     <img src="assets/readme-images/when.png" width="500">
     <img src="assets/readme-images/list.png" width="500">
 
@@ -213,14 +208,12 @@ _____
 
         1. The upcoming books will be updated every month.
         2. There are reviews of recently read books on the About page that will be updated often.
-    
     <img src="assets/readme-images/when.png" width="500">
     <img src="assets/readme-images/reviews.png" width="500">
 
     3. As a Frequent User, I want the site to be welcoming and make me want to connect with the club.
         1. All of the text is designed to be friendly, welcoming and not too formal.
         2. The site contains reviews by users to show what people are like at the club.
-
     <img src="assets/readme-images/thankyou.png" width="500">
     <img src="assets/readme-images/reviews.png" width="500">
 
@@ -250,8 +243,34 @@ _____
 -   Form attribute types were flagged as wrong by the validator. These had not had the attributes changed from the original Bootstrap code and this was fixed.
 
 -   Fixed CSS not working by adding scripts to each page.
+    
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 -   Fixed background image on main page. The file path was wrong and google devtools was used to investigate the problem, perform online edits to test out solutions and then apply the solutions to the code.
+
+        From:     
+        background: url('/assets/images/bookcase.jpg') no-repeat bottom right fixed;
+    
+        To:
+        background: url('assets/images/bookcase.jpg') no-repeat bottom right fixed;
+
+-   Fixed broken image links in README by amending the filepath.
+
+        From:
+        <img src="/assets/readme-images/webaimthankyou.png" width="500">
+        
+        To:
+        <img src="assets/readme-images/webaimthankyou.png" width="500"> 
+
+-   Fixed form validation issue by removing 'onclick' from code.
+
+        From:
+        <button type="submit" class="btn btn-primary" onclick="window.location.href='thankyou.html'">Submit</button>
+        
+        To:
+        <button type="submit" class="btn btn-primary">Submit</button>
 
 ## Deployment
 
