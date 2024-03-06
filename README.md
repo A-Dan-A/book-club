@@ -41,32 +41,40 @@ The main colors used are:
         
 with Black - #000000 text.
 
-    -   #### Typography
-        -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accessible and clean font that makes the site easy to read.
-    -   #### Imagery
-        -   Images are important, and a background hero image has been used on the index page to convey the theme of books to users. Other images have been used to enhance this theme.
+-   #### Typography
+    -   The Arial font is used throughout the site, with Helvetica and sans-serif as back-ups in case there is an error. Arial is a highly accessible and clean font that makes the site easy to read.
+ -  #### Imagery
+    -   Images are important, and a background hero image has been used on the index page to convey the theme of books to users. Other images have been used to enhance this theme.
 
 *   ### Wireframes
 
-    Desktop wireframes
+    -   #### Desktop wireframes
 
-    <img src="assets/readme-images/wireframe-desktop-page1da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-desktop-page2da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-desktop-page3da.jpg" width="500">
+        <img src="assets/readme-images/wireframe-desktop-page1da.jpg" width="300">
+
+        <img src="assets/readme-images/wireframe-desktop-page2da.jpg" width="300">
+        
+        <img src="assets/readme-images/wireframe-desktop-page3da.jpg" width="300">
+
+ 
+
+    -   #### Mobile Wireframe 
+
+        <img src="assets/readme-images/wireframe-mobile-page1da.jpg" width="300">
+
+        <img src="assets/readme-images/wireframe-mobile-page2da.jpg" width="300">
+
+        <img src="assets/readme-images/wireframe-mobile-page3da.jpg" width="300">
 
 
-    Mobile Wireframe 
 
-    <img src="assets/readme-images/wireframe-mobile-page1da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-mobile-page2da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-mobile-page3da.jpg" width="500">
+    -   #### Tablet Wireframe
 
+        <img src="assets/readme-images/wireframe-tablet-page1da.jpg" width="300">
 
-    Tablet Wireframe
+        <img src="assets/readme-images/wireframe-tablet-page2da.jpg" width="300">
 
-    <img src="assets/readme-images/wireframe-tablet-page1da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-tablet-page2da.jpg" width="500">
-    <img src="assets/readme-images/wireframe-tablet-page3da.jpg" width="500">
+        <img src="assets/readme-images/wireframe-tablet-page3da.jpg" width="300">
 
 ## Features
 
