@@ -4,7 +4,7 @@
 
 This is a website for a fictional book club that meets monthly and in person. It has been designed to be responsive on all devices, making navigation easy for anyone who wishes to find out more about the book club. The site is for anyone who might wish to join a book club and gives information enough to tell them about the club, the books and the people as well as giving them a chance to contact the club. This should be welcoming and informative to different types of users.
 
-<h2 align="center"><img src="/workspace/book-club/assets/readme-images/devices.png"></h2>
+<h2 align="center"><img src="/book-club/assets/readme-images/devices.png"></h2>
 
 
 ## User Experience (UX)
@@ -67,34 +67,34 @@ with Black - #000000 text.
 
 -   Is responsive on all screen sizes.
 
-<img src="/workspace/book-club/assets/readme-images/devices.png" width="500">
+<img src="/book-club/assets/readme-images/devices.png" width="500">
 
 -   Embedded YouTube video of a relevant book club discussion.
 -   Has a navigation bar with links.
 
-<img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
+<img src="/book-club/assets/readme-images/homepage.png" width="500">
 
 -   Has a footer bar with social media links.
 -   Has a form to contact the club with a button.
 
-<img src="/workspace/book-club/assets/readme-images/form.png" width="500">
+<img src="/book-club/assets/readme-images/form.png" width="500">
 
 -   The form button takes the user to a thanks page to show they have successfully submitted       their details.
 
-<img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
+<img src="/book-club/assets/readme-images/thankyou.png" width="500">
 
 -   Has reviews of books from other book club members.
 
-<img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+<img src="/book-club/assets/readme-images/reviews.png" width="500">
 
 -   Has a list of books that have been read last year and will be read this year.
 
-<img src="/workspace/book-club/assets/readme-images/list.png" width="500">
+<img src="/book-club/assets/readme-images/list.png" width="500">
 
 -   Has details of the meeting places, date and time.
 -   Has details of which books are coming up next to be read.
 
-<img src="/workspace/book-club/assets/readme-images/when.png" width="500">
+<img src="/book-club/assets/readme-images/when.png" width="500">
 
 ## Technologies Used
 
@@ -122,15 +122,15 @@ with Black - #000000 text.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-<img src="/workspace/book-club/assets/readme-images/indexvalidated.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/aboutvalidated.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/contactvalidated.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/thankyouvalidated.png" width="500">
+<img src="/book-club/assets/readme-images/indexvalidated.png" width="500">
+<img src="/book-club/assets/readme-images/aboutvalidated.png" width="500">
+<img src="/book-club/assets/readme-images/contactvalidated.png" width="500">
+<img src="/book-club/assets/readme-images/thankyouvalidated.png" width="500">
 
 _____
 
-<img src="/workspace/book-club/assets/readme-images/cssvalidated1.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/cssvalidated2.png" width="500">
+<img src="/book-club/assets/readme-images/cssvalidated1.png" width="500">
+<img src="/book-club/assets/readme-images/cssvalidated2.png" width="500">
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -142,22 +142,22 @@ _____
         1. Upon entering the site, the user will see the callout welcoming them and explaining in a sentence what the book club is about.
         2. The hero image and embedded video show clearly what the site is about.
         3. The user can scroll down and see more information, including meeting dates and times and a summary of what the book club will be reading next.
-    <img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
+    <img src="/book-club/assets/readme-images/homepage.png" width="500">
+    <img src="/book-club/assets/readme-images/when.png" width="500">
 
     2. As a First Time Visitor, I want the navigation to be obvious and easy.
 
         1. The site is designed to be simple and easy, there is a navbar at the top, and scrolling down will show you all the information you need.
         2. Each page has an obvious purpose, such as an overview of the club, more details and reviews, and a way to contact the club.
         3. On the contact page, once you have submitted your details, you will be redirected to a friendly thank you page so you know it has worked. A simple button navigates you back, or you can use the nav bar.
-    <img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
+    <img src="/book-club/assets/readme-images/thankyou.png" width="500">
 
     3. As a First Time Visitor, I want to see testimonials to understand what current users get out of the book club.
         1. After reading an overview of what the book club is about, the next page will show more information, including reviews by members.
         2. The user can scroll down to the bottom of every page to find social media links to find out more about the club.
         3. On the home page there is a Youtube video that demonstrates what a book club is like, using a recently read book.
 
-    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+    <img src="/book-club/assets/readme-images/reviews.png" width="500">
 
 -   #### Returning Visitor Goals
 
@@ -166,8 +166,8 @@ _____
         1. This is shown clearly on the about page, with a list of recently read books.
         2. At the bottom of every page are social media links to see more about the recent activities of the club.
     
-    <img src="/workspace/book-club/assets/readme-images/list.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+    <img src="/book-club/assets/readme-images/list.png" width="500">
+    <img src="/book-club/assets/readme-images/reviews.png" width="500">
 
     2. As a Returning Visitor, I want to be able to easily find a way to contact the club to find out more information.
 
@@ -176,14 +176,14 @@ _____
         3. The footer contains social media links for the club, where it would be possible to message them.
         4. All the social media links open in a new tab, so the user can continue browsing on the site easily.
     
-    <img src="/workspace/book-club/assets/readme-images/homepage.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/contact.png" width="500">
+    <img src="/book-club/assets/readme-images/homepage.png" width="500">
+    <img src="/book-club/assets/readme-images/contact.png" width="500">
 
     3. As a Returning Visitor, I want to be able to find links to social media.
         1. The social media links are at the bottom of every page.
         2. All the social media links open in a new tab, for ease of use.
 
-    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+    <img src="/book-club/assets/readme-images/reviews.png" width="500">
 
 -   #### Frequent User Goals
 
@@ -193,23 +193,23 @@ _____
         2. There is also a list of the next 4 books that the group will read.
         3. On the About page, there is a list of books that were read in the previous year and that will be read in the current year, meaining that there is always plenty of relevant information for the user to browse.
 
-    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/list.png" width="500">
+    <img src="/book-club/assets/readme-images/when.png" width="500">
+    <img src="/book-club/assets/readme-images/list.png" width="500">
 
     2. As a Frequent User, I want there to be features that can be regularly updated so I have a reason to come back.
 
         1. The upcoming books will be updated every month.
         2. There are reviews of recently read books on the About page that will be updated often.
     
-    <img src="/workspace/book-club/assets/readme-images/when.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+    <img src="/book-club/assets/readme-images/when.png" width="500">
+    <img src="/book-club/assets/readme-images/reviews.png" width="500">
 
     3. As a Frequent User, I want the site to be welcoming and make me want to connect with the club.
         1. All of the text is designed to be friendly, welcoming and not too formal.
         2. The site contains reviews by users to show what people are like at the club.
 
-    <img src="/workspace/book-club/assets/readme-images/thankyou.png" width="500">
-    <img src="/workspace/book-club/assets/readme-images/reviews.png" width="500">
+    <img src="/book-club/assets/readme-images/thankyou.png" width="500">
+    <img src="/book-club/assets/readme-images/reviews.png" width="500">
 
 
 ### Further Testing
@@ -219,16 +219,16 @@ _____
 -   Testing was done to make sure all of the pages linked to each other and to any external links properly.
 
 -   Testing was done with Google's Lighthouse devtool. The index page scored lower in performance and best practices because of issues relating to the embedded Youtube video.
-<img src="/workspace/book-club/assets/readme-images/lighthouseindex.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/lighthouseabout.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/lighthousecontact.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/lighthousethankyou.png" width="500">
+<img src="/book-club/assets/readme-images/lighthouseindex.png" width="500">
+<img src="/book-club/assets/readme-images/lighthouseabout.png" width="500">
+<img src="/book-club/assets/readme-images/lighthousecontact.png" width="500">
+<img src="/book-club/assets/readme-images/lighthousethankyou.png" width="500">
 
 -   Testing was done with the Webaim WAVE tool to test accessibility
-<img src="/workspace/book-club/assets/readme-images/webaimindex.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/webaimabout.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/webaimcontact.png" width="500">
-<img src="/workspace/book-club/assets/readme-images/webaimthankyou.png" width="500">
+<img src="/book-club/assets/readme-images/webaimindex.png" width="500">
+<img src="/book-club/assets/readme-images/webaimabout.png" width="500">
+<img src="/book-club/assets/readme-images/webaimcontact.png" width="500">
+<img src="/book-club/assets/readme-images/webaimthankyou.png" width="500">
 
 ### Known Bugs
 
