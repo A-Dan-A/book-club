@@ -1,6 +1,6 @@
 <h1 align="center">Project 1 - Book Club Website</h1>
 
-[View the live project here.](https://https://a-dan-a.github.io/book-club/)
+[View the live project here.](https://a-dan-a.github.io/book-club/)
 
 This is a website for a fictional book club that meets monthly and in person. It has been designed to be responsive on all devices, making navigation easy for anyone who wishes to find out more about the book club. The site is for anyone who might wish to join a book club and gives information enough to tell them about the club, the books and the people as well as giving them a chance to contact the club. This should be welcoming and informative to different types of users.
 
